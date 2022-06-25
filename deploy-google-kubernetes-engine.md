@@ -123,9 +123,13 @@ After the lab completes:
 
 ### Prepared by:
 ![Calistus Igwilo](images/calistus-igwilo.png "Calistus Igwilo")
+---
 Calistus Igwilo
+
 ebunilo@yahoo.com
+
 https://github.com/calistus-igwilo
+
 https://linkedin.com/in/calistus-igwilo
 
 
